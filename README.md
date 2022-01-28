@@ -1,6 +1,6 @@
 ### Olá 👋! Eu sou Douglas Lopes
 
-● Hoje eu trabalho no Ministério da Defesa.
+● Hoje eu trabalho no Ministério da Defesa na área de Redes.
 
 ● Estudante de JAVA Back-end e Front-end, e atualmente estou estudando também, as seguintes tecnologias:
 
