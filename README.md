@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+Meu+nome+e+Douglas+Lopes.;Tenho+21+Anos;Moro+em+Bras%C3%ADlia;Estudante+de+Programa%C3%A7%C3%A3o+de+Software;Bem+Vindo+%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+Meu+nome+e+Douglas+Lopes.;Tenho+21+Anos;Moro+em+Bras%C3%ADlia;Estudante+de+Programa%C3%A7%C3%A3o+de+Software;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ericksalignac&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
