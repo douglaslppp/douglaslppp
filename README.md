@@ -2,9 +2,9 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=douglaslppp&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaslppp&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaslppp&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
    
-![Contribution](https://activity-graph.herokuapp.com/graph?username=ericksalignac&theme=gotham&hide_border=true&area=true)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=douglaslppp&theme=gotham&hide_border=true&area=true)
    
 <div>
 <div style="display: inline_block"><br>
